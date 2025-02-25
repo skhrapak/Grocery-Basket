@@ -37,6 +37,6 @@ Instacart is a real company that’s made their data available online. However, 
 
 4. Content
 
-The repositoty contains Project Brief, Python script used to produce the final Report as well as the final rfeport itself. 
+The repositoty contains Project Brief, Python script used to produce the final Report as well as the final report itself. 
 
 
